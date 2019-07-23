@@ -1,0 +1,22 @@
+{
+  "name": "sendgridtest",
+  "version": "1.0.0",
+  "description": "Prueba de SendGrid",
+  "main": "SendGrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arutest/SendGridTest.git"
+  },
+  "author": "Andres Rojas U.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arutest/SendGridTest/issues"
+  },
+  "homepage": "https://github.com/arutest/SendGridTest#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
