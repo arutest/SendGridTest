@@ -11,7 +11,6 @@ const sgMail = require('@sendgrid/mail');
 
 //import sgMail from '@sendgrid/mail'
 sgMail.setApiKey(process.env.SENDGRID_API_KEY);
-//sgMail.setApiKey("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");
 const msg = {
   to: 'sergio.rojas0@walmart.com',
   from: 'CESI360@walmart.com<CESI360@hotmail.com>',
